@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class DemoController {
 
-	@Autowired
+	
 	Configuration configuration;
 	@GetMapping("/limits")
 	public limitConfiguration retriveLimitsFromConfig() {
