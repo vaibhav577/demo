@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 
 import lombok.Data;
 
-//this is change 
+//this is 
 @Component
 @ConfigurationProperties("limits-service")
 @Data
