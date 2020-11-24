@@ -13,6 +13,6 @@ public class Configuration {
 	
 	private int maximum;
 	private int minimum;
-	
+	private string siddhesh;
 
 }
